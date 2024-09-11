@@ -2,7 +2,6 @@
 <br>
 <H2> Capstone Project Readme </H1>
 
-[Capstone Proposal Review Link](https://review.udacity.com/#!/reviews/2530506) 
 
 <H4> Prerequisite Libraries: </H4>
 
